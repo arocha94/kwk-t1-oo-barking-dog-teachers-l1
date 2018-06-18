@@ -8,7 +8,7 @@ fido.name
 
  
 fido.bark
-puts woof!
+woof!
 
 
 end
