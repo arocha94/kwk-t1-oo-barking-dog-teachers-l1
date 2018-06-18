@@ -3,8 +3,8 @@
 class Dog
   def name
 
- fido = Dog.new
- fido.name = "Fido" 
+ @fido = Dog.new
+ @fido.name = "Fido" 
  
  
   def bark
